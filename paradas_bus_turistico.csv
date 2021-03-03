@@ -1,0 +1,37 @@
+nombre;recorrido;parada;atractivos
+Diagonal Norte;Azul;0;Obelisco / Catedral Metropolitana / Casa Rosada / Museo del Bicentenario / Galería Güemes / Cabildo de Buenos Aires
+Avenida de Mayo;Azul;1;Casa Rosada / Museo del Bicentenario / Café Tortoni / Manzana de las Luces / Cabildo de Buenos Aires / Teatro Avenida
+Plaza del Congreso;Azul;2;Congreso de la Nación Argentina / Palacio Barolo / Pasaje Rivarola / Hotel Castelar / Monumento a los Dos Congresos
+Paseo de la Historieta;Azul;3;Escultura de Mafalda / Puente de la Mujer / Fragata Sarmiento / Basílica de San Francisco /  Plaza de Mayo
+San Telmo;Azul;4;Plaza Dorrego / Iglesia San Pedro Telmo / Museo MAMBA / Museo MACBA / Mercado de San Telmo
+Plaza Dorrego (MAMBA/MACBA);Azul;5;Plaza Dorrego / Iglesia San Pedro Telmo / Museo MAMBA / Museo MCABA / Mercado de San Telmo
+Usina del Arte;Azul;6;Caminito / Museo Quinquela Martín / Museo del Cine / La Torre del Fantasma / Estadio Boca Juniors
+La Bombonera (Estadio Boca Juniors);Azul;7;Caminito / Museo Quinquela Martín / Teatro de la Ribera / Puente Transbordador
+La Boca - Caminito;Azul;8;Usina del Arte / Museo Quinquela Martín / Teatro de la Ribera / Puente Transbordador / Estadio Boca Juniors
+Costanera Sur;Azul;9;Paseo de la Gloria / Monumento al Tango / Puente de la Mujer / Fragata Sarmiento / Parque Micaela Bastidas
+Puerto Madero;Azul;10;Puente de la Mujer / Buque Escuela Corbeta Uruguay / Museo del Humor / Centro Cultural Néstor Kirchner / Experiencias Náuticas
+Río de la Plata (Experiencias náuticas);Azul;11;Reserva Ecológica / Colección de Arte Amalia Lacroze de Fortabat / Circuitos Gastronómicos Peatonales / Centro Cultural Néstor Kirchner / Galerías Pacífico
+Galerías Pacífico (Calle Florida);Azul;12;Teatro Colón / Plaza San Martín / Galerías Pacífico / Palacio Paz - Círculo Militar / Iglesia Santa Catalina de Siena
+Av 9 de Julio (conexión);Rojo;13;Peatonal Florida / Teatro Colón / Plaza San Martín / Galerías Pacífico / Museo de Arte Hispanoamericano Isaac Fernández Blanco
+Plaza San Martín;Rojo;14;Basílica Del Santísimo Sacramento / Museo de la Inmigración y Museo de Arte Contemporáneo / Torre Monumental / Museo Nacional Ferroviario RaÃºl Scalabrini Ortiz / Palacio San Martín
+Floralis Genérica;Rojo;15;Museo Nacional de Bellas Artes / Biblioteca Nacional / Museo Malba / Museo Nacional de Arte Decorativo / Cementerio de la Recoleta
+Malba (conexión);Rojo;16;Jardín Japonés / Museo de Arte Popular J. Hernández / Ecoparque Interactivo / Planetario / Parque Tres de Febrero / Rosedal
+Plaza Italia;Rojo;17;Museo Evita / Jardín Japonés / Jardín Botánico Carlos Thays / Rosedal / Ecoparque Interactivo
+Palermo 1;Rojo;18;Plazoleta Julio Cortázar (Ex Plaza Serrano) / Jardín Botánico Carlos Thays / Plaza Italia / Ecoparque Interactivo / Pasajes porteños
+Distrito Arcos 1;Rojo;19;Distrito Arcos / Centro Cultural de la Ciencia / La Rural / Ecoparque Interactivo / Rosedal
+Bosques de Palermo - Rosedal (conexión);Rojo;20;Mezquita Centro Cultural Islámico Rey Fahd / Campo de Polo / Hipódromo Argentino / Rosedal / Planetario Galileo Galilei
+Monumento a los españoles;Rojo;21;Jardín Botánico Carlos Thays / Museo Evita / Jardín Japonés / Rosedal / Sociedad Rural Argentina
+Museo Nacional de Bellas Artes;Rojo;22;Floralis Genérica / Biblioteca Nacional / Basílica Nuestra Señora del Pilar / Centro Cultural Recoleta / Cementerio de la Recoleta
+Recoleta;Rojo;23;Centro Cultural Recoleta / Cementerio de la Recoleta / Basílica Nuestra Señora del Pilar / Museo Nacional de Bellas Artes / Floralis Genérica
+Teatro Colón;Rojo;24;Obelisco / Teatro Colón / Teatro Cervantes / Galerías Pacífico / Plaza San Martín
+Malba (conexión);Verde;1;Jardín Japonés / Museo de Arte Popular J. Hernández / Ecoparque Interactivo / Planetario / Parque 3 de Febrero / Rosedal
+Planetario;Verde;2;Planetario Galileo Galileo / Museo de Artes Plásticas Sívori / Rosedal / Ecoparque Interactivo / Jardín Japonés
+Club de Pescadores;Verde;3;Club de pescadores / Parque Costanera Norte Punta Carrasco / Corredor Costanera Norte / Parque 3 de Febrero
+Parque de la Memoria;Verde;4;Converse Skate Plaza / Monumento a los Policías Caídos en el Cumplimiento del Deber / Tierra Santa / Estadio River Plate / Club Hípico Argentino
+El Monumental (Estadio River Plate);Verde;5;Museo Deportivo River / Jardín de Esculturas / Paseo de las Américas y Converse Skate Plaza / Museo Islas Malvinas e Islas del Atlántico Sur / Centro Cultural de la Memoria Haroldo Conti / Club Hípico Argentino
+Belgrano - Barrio Chino;Verde;6;Museo Enrique Larreta / Arco Inaugural Barrio Chino / Barrancas de Belgrano / Museo Sarmiento / Iglesia Inmaculada Concepción del Belgrano
+Campo Arg. de Polo -Hipódromo de Palermo;Verde;7;Campo Argentino de Polo / Hipódromo Argentino de Palermo / Paseo del Rosedal / Planetario Galileo Galilei / Museo Sívori
+Bosques de Palermo (conexión);Verde;8;Mezquita Centro Cultural Islámico Rey Fahd / Campo de Polo / Hipódromo Argentino / Rosedal / Planetario Galileo Galilei
+Distrito Arcos 2;Verde;9;Distrito Arcos / Centro Cultural de la Ciencia / La Rural / Ecoparque Interactivo / Paseo del Rosedal
+Palermo 2;Verde;10;Plazoleta Julio Cortázar (Ex Plaza Serrano) / Jardín Botánico Carlos Thays / Plaza Italia / Ecoparque Interactivo / Pasajes porteños
+Monumento a los españoles (conexión);Verde;11;Jardín Botánico Carlos Thays / Museo Evita / Jardín Japonés / Paseo del Rosedal / Sociedad Rural Argentina
